@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     </tr>   
 </table>
 </center>  
-### Welcome!👋
+ Welcome!👋
 
 A little bit about me:
 I am currently a student at Generation Brasil, and graduating to be a Java Full Stack Junior. 
@@ -31,7 +31,6 @@ I am currently a student at Generation Brasil, and graduating to be a Java Full 
  I love pets and i have a dog and lots of cats, playing is one of my favorite hobbies.
  One of my ideals of life is that the process of learning never ends and knowledge is never too much, so I'm always learning, I'm also very persistent and I believe that challenges are never impossible to be in overcome.
  
- ![](https://komarev.com/ghpvc/?username=seu_usuário&color=blue&style=flat
  
  How to reach me:
- <div class="DvXlvQ" style="width: 369.6px; height: 369.6px; transform: translate(-2.84217e-14px, -2.84217e-14px) rotate(0deg);"><img class="T96P6A" crossorigin="anonymous" src="https://media-public.canva.com/gvtPM/MADnBogvtPM/4/t.png" draggable="false" alt="LinkedIn" style="object-fit: fill;"></div>
+ <div class="DvXlvQ" style="width: 92.6607px; height: 92.6607px; transform: translate(-7.10543e-15px, -7.10543e-15px) rotate(0deg);"><img class="T96P6A" crossorigin="anonymous" src="https://media-public.canva.com/gvtPM/MADnBogvtPM/4/t.png" draggable="false" alt="LinkedIn" style="object-fit: fill;"></div>
