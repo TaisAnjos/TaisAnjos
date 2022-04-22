@@ -33,4 +33,4 @@ I am currently a student at Generation Brasil, and graduating to be a Java Full 
  
  
  How to reach me:
- <div class="DvXlvQ" style="width: 92.6607px; height: 92.6607px; transform: translate(-7.10543e-15px, -7.10543e-15px) rotate(0deg);"><img class="T96P6A" crossorigin="anonymous" src="https://media-public.canva.com/gvtPM/MADnBogvtPM/4/t.png" draggable="false" alt="LinkedIn" style="object-fit: fill;"></div>
+![image](https://user-images.githubusercontent.com/79381531/164570283-4657f63f-56d6-4ec6-a2dc-decccfe9dfeb.png)
