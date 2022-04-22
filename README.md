@@ -30,7 +30,3 @@ I am currently a student at Generation Brasil, and graduating to be a Java Full 
  I have always loved technology and since my first contact with a computer at the age of 9, I have always tried to evolve my knowledge. Recently I had contact with programming and just loved it! so I went on the journey to become a programmer.
  I love pets and i have a dog and lots of cats, playing is one of my favorite hobbies.
  One of my ideals of life is that the process of learning never ends and knowledge is never too much, so I'm always learning, I'm also very persistent and I believe that challenges are never impossible to be in overcome.
- 
- 
- How to reach me:
-![image](https://user-images.githubusercontent.com/79381531/164570283-4657f63f-56d6-4ec6-a2dc-decccfe9dfeb.png)
