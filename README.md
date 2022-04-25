@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </table>
 </center>  
  Welcome!👋
-<a class="jss77 jss78" href="/pt/image-vector/banner-about-programming-coding-course-neural-1870989130"><img alt="Banner sobre programação ou codificação do curso de rede neural e inteligência artificial ou IA online em linguagens de computador. O software desenvolve o aprendizado de tecnologia. Processo de criação de código na aula a distância." aria-label="Imagem" class="jss155" data-automation="ImageContainer_Image" src="https://image.shutterstock.com/image-vector/banner-about-programming-coding-course-600w-1870989130.jpg"></a>
+
 A little bit about me:
 I am currently a student at Generation Brasil, and graduating to be a Java Full Stack Junior. 
  I have always loved technology and since my first contact with a computer at the age of 9, I have always tried to evolve my knowledge. Recently I had contact with programming and just loved it! so I went on the journey to become a programmer.
