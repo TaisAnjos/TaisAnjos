@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-            <h1>Welcome! 👋 </h1>
+     
+          <h1>Welcome! 👋 </h1>
 
 ![Tais Anjos](https://user-images.githubusercontent.com/79381531/169381801-f77a485e-bf2f-4046-b70a-70bce30d50fc.gif)
 
@@ -36,4 +37,4 @@ I am currently a student at Generation Brasil, and graduating to be a Java Full 
 
 <h4> How to reach me: </h4>
 
-<a href="https://www.linkedin.com/in/tais-alves/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/tais-alves/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
