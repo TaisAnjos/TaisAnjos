@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Tais Anjos](https://user-images.githubusercontent.com/79381531/169381801-f77a485e-bf2f-4046-b70a-70bce30d50fc.gif)
- Welcome!👋
-    <h1>Welcome! </h1>
+            <h1>Welcome! 👋 </h1>
 
-A little bit about me:
+<h2>A little bit about me:</h2>
 I am currently a student at Generation Brasil, and graduating to be a Java Full Stack Junior. 
  I have always loved technology and since my first contact with a computer at the age of 9, I have always tried to evolve my knowledge. Recently I had contact with programming and just loved it! so I went on the journey to become a programmer.
  I love pets and i have a dog and lots of cats, playing is one of my favorite hobbies.
