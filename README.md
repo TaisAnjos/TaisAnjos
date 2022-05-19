@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Tais Anjos](https://user-images.githubusercontent.com/79381531/169381801-f77a485e-bf2f-4046-b70a-70bce30d50fc.gif)
             <h1>Welcome! 👋 </h1>
+
+![Tais Anjos](https://user-images.githubusercontent.com/79381531/169381801-f77a485e-bf2f-4046-b70a-70bce30d50fc.gif)
 
 <h2>A little bit about me:</h2>
 I am currently a student at Generation Brasil, and graduating to be a Java Full Stack Junior. 
@@ -23,7 +24,7 @@ I am currently a student at Generation Brasil, and graduating to be a Java Full 
  I love pets and i have a dog and lots of cats, playing is one of my favorite hobbies.
  One of my ideals of life is that the process of learning never ends and knowledge is never too much, so I'm always learning, I'm also very persistent and I believe that challenges are never impossible to be in overcome.
  
-<h3>Languages and frameworks </h3>
+<h3>Languages and frameworks: </h3>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -32,3 +33,7 @@ I am currently a student at Generation Brasil, and graduating to be a Java Full 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<h4> How to reach me: </h4>
+
+<a href="https://www.linkedin.com/in/tais-alves/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
