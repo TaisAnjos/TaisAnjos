@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-     
-          <h1>Welcome! 👋 </h1>
+
+<h1>✨ Welcome! ✨</h1>
 
 ![Tais Anjos](https://user-images.githubusercontent.com/79381531/169381801-f77a485e-bf2f-4046-b70a-70bce30d50fc.gif)
 
