@@ -59,4 +59,4 @@ Graduating in Java Full Stack Developer Jr at Generation Brasil
 
 <h3> How to reach me: </h3>
 
-<a href="https://www.linkedin.com/in/tais-alves/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
+<a href="https://www.linkedin.com/in/tais-alves/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
