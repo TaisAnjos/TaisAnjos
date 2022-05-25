@@ -25,13 +25,13 @@ I am currently a student at Generation Brasil, and graduating to be a Java Full 
 
  <h3> Main repositories: </h3>
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaisAnjos&repo=ProjetoIntegrador)](https://github.com/TaisAnjos/ProjetoIntegrador)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaisAnjos&repo=blogPessoal)](https://github.com/TaisAnjos/blogPessoal)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaisAnjos&show_icons=true&theme=midnight-purple&repo=ProjetoIntegrador)](https://github.com/TaisAnjos/ProjetoIntegrador)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaisAnjos&show_icons=true&theme=midnight-purple&repo=blogPessoal)](https://github.com/TaisAnjos/blogPessoal)
  
  <h3> Statistics: </h3>
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaisAnjos&show_icons=true&theme=midnight-purple)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaisAnjos&layout=midnight-purple)](https://github.com/TaisAnjos/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaisAnjos&show_icons=true&theme=midnight-purple&layout=midnight-purple)](https://github.com/TaisAnjos/github-readme-stats)
  
 <h3>Languages and frameworks: </h3>
 
