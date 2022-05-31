@@ -27,6 +27,7 @@ I am currently a student at Generation Brasil, and graduating to be a Java Full 
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaisAnjos&show_icons=true&theme=midnight-purple&repo=ProjetoIntegrador)](https://github.com/TaisAnjos/ProjetoIntegrador)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaisAnjos&show_icons=true&theme=midnight-purple&repo=blogPessoal)](https://github.com/TaisAnjos/blogPessoal)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaisAnjos&show_icons=true&theme=midnight-purple&repo=blogPessoal)](https://github.com/TaisAnjos/blogPessoal-front)
  
  <h3> Statistics: </h3>
  
