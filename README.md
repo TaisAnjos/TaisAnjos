@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 ![Tais Anjos](https://user-images.githubusercontent.com/79381531/169381801-f77a485e-bf2f-4046-b70a-70bce30d50fc.gif)
 
 <h2>About me:</h2>
-I am currently a student at Generation Brasil, and graduating to be a Java Full Stack Junior. 
- I have always loved technology and since my first contact with a computer at the age of 9, I have always tried to evolve my knowledge. Recently I had contact with programming and just loved it! so I went on the journey to become a programmer.
+I have always loved technology and since my first contact with a computer at the age of 9, I have always tried to evolve my knowledge. Recently I had contact with programming and just loved it! so I went on the journey to become a programmer.
 
  <h3> Main repositories: </h3>
  
@@ -47,7 +46,7 @@ I am currently a student at Generation Brasil, and graduating to be a Java Full 
 
 <h3>  🔥 I’m currently learning: </h3>
 
-Graduating in Java Full Stack Developer Jr at Generation Brasil
+Frontend 
 
 <h3> 💕 My passions: </h3>
 
