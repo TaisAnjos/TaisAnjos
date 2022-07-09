@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 ![Tais Anjos](https://user-images.githubusercontent.com/79381531/169381801-f77a485e-bf2f-4046-b70a-70bce30d50fc.gif)
 
 <h2>About me:</h2>
-I have always loved technology and since my first contact with a computer at the age of 9, I have always tried to evolve my knowledge. Recently I had contact with programming and just loved it! so I went on the journey to become a programmer.
+<p> I've always loved technology and because I'm very curious, I ended up getting to know programming, an area that I identify with and I'm always looking to evolve. </p>
+
+<p> ‎<span>Sempre amei tecnologia e por ser muito curiosa, acabei conheçendo a programação, ua área que me identifico e estou sempre procurando evoluir</span> </p>
 
  <h3> Main repositories: </h3>
  
@@ -56,7 +58,10 @@ Frontend
 
 <h3> 🤔 My personality and ideals: </h3>
  
- <p> One of my ideals of life is that the process of learning never ends and knowledge is never too much, so I'm always learning, I'm also very persistent and I believe that challenges are never impossible to be in overcome. <p>
+ <p> One of my ideals of life is that the process of learning never ends and knowledge is never too much, so I'm always learning, I'm also very persistent and I like challenges
+. <p>
+ 
+  <p> Um dos meus ideais de vida é que o processo de aprendizagem nunca acabe e o conhecimento nunca seja demais, por isso estou sempre aprendendo, também sou muito persistente e gosto de desafios. <p>
 
 <h3> How to reach me: </h3>
 
