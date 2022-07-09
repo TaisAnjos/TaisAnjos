@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>✨ Welcome! ✨ </h1>
+<h1>✨ Welcome! / Bem Vindo!✨ </h1>
 
 ![Tais Anjos](https://user-images.githubusercontent.com/79381531/169381801-f77a485e-bf2f-4046-b70a-70bce30d50fc.gif)
 
 <h2>About me:</h2>
 <p> I've always loved technology and because I'm very curious, I ended up getting to know programming, an area that I identify with and I'm always looking to evolve. </p>
 
-<p> ‎<span>Sempre amei tecnologia e por ser muito curiosa, acabei conheçendo a programação, ua área que me identifico e estou sempre procurando evoluir</span> </p>
+<p> ‎<span>Sempre amei tecnologia e por ser muito curiosa, acabei conheçendo a programação, uma área que me identifico e estou sempre procurando evoluir</span> </p>
 
  <h3> Main repositories: </h3>
  
